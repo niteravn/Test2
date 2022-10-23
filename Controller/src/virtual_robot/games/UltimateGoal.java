@@ -1,6 +1,7 @@
 package virtual_robot.games;
 
 import java.util.*;
+System.out.println("hi");
 
 import org.dyn4j.dynamics.Body;
 import org.dyn4j.dynamics.BodyFixture;
