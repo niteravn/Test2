@@ -1,8 +1,6 @@
 package virtual_robot.games;
 
 import java.util.*;
-System.out.println("hi");
-
 
 import org.dyn4j.dynamics.Body;
 import org.dyn4j.dynamics.BodyFixture;
@@ -34,7 +32,7 @@ public class UltimateGoal extends Game {
     private int starterStackSize = -1;
     private final Random random = new Random();
 
-
+//making Changes!
     @Override
     public void initialize() {
         //Calling the super method causes the game elements to be created, populating the gameElements list.
