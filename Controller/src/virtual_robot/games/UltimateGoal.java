@@ -18,8 +18,9 @@ public class UltimateGoal extends Game {
 
     // Positions (inches) for wobble goals, starter stack, and ring return
     public static final Vector2[] WOBBLE_GOAL_STARTS = new Vector2[]{
-            new Vector2(49.5, -0),
-            new Vector2(25.5, -48)
+            new Vector2(49.5, 0),
+            new Vector2(25.7, -48),
+            new Vector2(9000, -48)
     };
     public static final Vector2 STARTER_STACK = new Vector2(36, -22.5);
     public static final Vector2 RING_RETURN = new Vector2(24, 67);
